@@ -1,0 +1,40 @@
+
+# Dependency folders
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Local environment files
+.env
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.local
+*.lock-wscript
+*.tsbuildinfo
+
+# Testing coverage
+coverage/
+
+# Optional: ignore production/public uploads or temp files
+*.zip
+*.bak
+*.tmp
+
+
