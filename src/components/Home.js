@@ -14,9 +14,9 @@ const Home = () => {
 
 </p>
         <div className="flex gap-4 justify-center">
-          <a href="#" className="text-gray-700 hover:text-black"><FaLinkedin size={24} /></a>
-          <a href="#" className="text-gray-700 hover:text-black"><FaGithub size={24} /></a>
-          <a href="#" className="text-gray-700 hover:text-black"><FaTwitter size={24} /></a>
+          <a href="https://www.linkedin.com/in/kanhiya-jha-62885a70/" className="text-gray-700 hover:text-black"><FaLinkedin size={24} /></a>
+          <a href="https://github.com/kanhiyajha" className="text-gray-700 hover:text-black"><FaGithub size={24} /></a>
+          <a href="https://www.linkedin.com/in/kanhiya-jha-62885a70/" className="text-gray-700 hover:text-black"><FaTwitter size={24} /></a>
         </div>
       </section>
   );
